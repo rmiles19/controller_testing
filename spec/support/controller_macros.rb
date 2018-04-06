@@ -11,5 +11,6 @@ module ControllerMacros
         gender: 'Female'
       )
       sign_in @user
+    end 
   end 
 end 
